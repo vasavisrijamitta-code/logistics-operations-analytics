@@ -75,32 +75,33 @@ The objective was to provide actionable business insights and strategic recommen
 
 ### Logistics Operations Executive Dashboard
 
-<img width="1427" height="848" alt="logistics operations" src="https://github.com/user-attachments/assets/4f6bbb45-3882-4914-b275-fbbd9a8d1584" />
-
+![Operations Dashboard](logistics operations.png)
 
 ### Fleet Performance Dashboard
 
-<img width="1432" height="795" alt="fleet performance" src="https://github.com/user-attachments/assets/97a3c0c8-e8d7-43ae-968e-9fd58b16d7e3" />
-
+![Fleet Dashboard](fleet performance.png)
 
 ### Delivery Performance Dashboard
 
-<img width="1392" height="786" alt="delivery performance" src="https://github.com/user-attachments/assets/9507f015-89a3-4aa0-b10b-ed8f6dce23c3" />
+![Delivery Dashboard](delivery performance.png)
 
 
 ### Strategic Recommendations
 
-<img width="1486" height="840" alt="recommendations" src="https://github.com/user-attachments/assets/7b56ec14-61ab-4feb-8b32-fdc175c5702a" />
+![Recommendations Dashboard](recommendations.png)
 
 
 ---
 
 ## Skills Demonstrated
 
-- Data Cleaning
-- KPI Development
-- DAX
-- Dashboard Design
-- Business Analysis
-- Data Visualisation
-- Executive Reporting
+- Power BI Dashboard Development
+- DAX Measures & KPIs
+- Data Modeling & Relationships
+- Business Intelligence Reporting
+- Logistics Analytics
+- Fleet Performance Analysis
+- Delivery Performance Analysis
+- Executive Dashboard Design
+- Data Visualization
+- Strategic Recommendation Development
