@@ -75,15 +75,15 @@ The objective was to provide actionable business insights and strategic recommen
 
 ### Logistics Operations Executive Dashboard
 
-![Operations Dashboard](logistics operations.png)
+![Operations Dashboard](logistics_operations.png)
 
 ### Fleet Performance Dashboard
 
-![Fleet Dashboard](fleet performance.png)
+![Fleet Dashboard](fleet_performance.png)
 
 ### Delivery Performance Dashboard
 
-![Delivery Dashboard](delivery performance.png)
+![Delivery Dashboard](delivery_performance.png)
 
 
 ### Strategic Recommendations
